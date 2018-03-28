@@ -15,6 +15,8 @@ public class DecreaseStockInput {
 
     private String branch;
 
+    private String newBranch;
+
     public DecreaseStockInput() {
     }
 
