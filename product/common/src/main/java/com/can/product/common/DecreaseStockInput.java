@@ -13,8 +13,6 @@ public class DecreaseStockInput {
 
     private Integer productQuantity;
 
-    private String branch;
-
     public DecreaseStockInput() {
     }
 
